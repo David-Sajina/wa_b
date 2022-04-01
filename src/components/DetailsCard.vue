@@ -1,9 +1,9 @@
 <template>
-	<v-layout row wrap style>
+	<v-layout wrap style="margin-top: 10px">
 		<v-card
 			class="text-xs-center ma-3"
-			max-width="350"
-			style="margin-top: 15px"
+			width="300"
+			style="margin-top: 15px: margin-left:15px;"
 		>
 			<router-link
 				style="text-decoration: none; color: black"
